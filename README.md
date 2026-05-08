@@ -17,3 +17,4 @@ This repository is created to practice the basic GitHub workflow used for managi
 - The README file clearly explains the project goals and success criteria.
 - A new branch is created for making a README update.
 - A Pull Request is opened and linked to the issue using `Closes #1`.
+- - The workflow demonstrates how a Product Associate can track and review a feature lifecycle.
